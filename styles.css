@@ -1,0 +1,121 @@
+body{
+    
+}
+
+.search-sec{
+    background: #1A4668;padding: 2rem;
+}
+.search-slt{
+    display: block;
+    width: 100%;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: #55595c;
+    background-color: #ff9292;
+    background-image: none;
+    border: 1px solid #ccc;
+    height: calc(3rem + 2px) !important;
+    border-radius:0;
+}
+.wrn-btn{
+    width: 100%;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: capitalize;
+     height: calc(3rem + 2px) !important;
+     border-radius:0;
+}
+
+
+body{
+    background-color:#ff9292 ;
+}
+
+#title{
+    /*background-color: #ef8172; */
+    /*background-color:#d8e3e7; */
+    background-color: #ff9292;
+    padding : 2% 
+}
+
+#features{
+    padding: 7% 15%;
+    background-color: white;
+}
+.container-fluid{
+    padding: 0 ;
+}
+
+h1{
+    font-size: 3rem;
+    line-height: 1.5;
+    padding-left: 2%;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+   padding-left: 2%;
+}
+
+.navbar{
+    padding: 0 0 2rem;
+    
+}
+
+.nav-item{
+    padding: 0 15px ;
+}
+
+.nav-link{
+    font-size: 1.1rem;
+}
+.navbar-item{
+    padding-left: 0;
+    padding-right: 0;
+}
+.download-button{
+    margin: 5% 3% 5% 3%;
+}
+
+.features-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: #ff4c68;
+}
+
+.Bar-2{
+    padding: 0%;
+    margin: 0%;
+}
+
+.title-text-img{
+    padding-top: 5%;
+}
+
+
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
